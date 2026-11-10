@@ -9,12 +9,12 @@ Original file is located at
 
 
 
-#nstall libraries
+#install libraries
 
 !pip install pandas
 !pip install matplotlib
 !pip install seaborn
-!pipinstall -r requirements.txt
+!pip install -r requirements.txt
 
 """## Section A-E"""
 
