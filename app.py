@@ -11,10 +11,10 @@ Original file is located at
 
 #install libraries
 
-!pip install pandas
-!pip install matplotlib
-!pip install seaborn
-!pip install -r requirements.txt
+pip install pandas
+pip install matplotlib
+pip install seaborn
+pip install -r requirements.txt
 
 """## Section A-E"""
 
