@@ -10,7 +10,7 @@ Original file is located at
 
 
 #nstall libraries
-!pip install streamlit
+
 !pip install pandas
 !pip install matplotlib
 !pip install seaborn
