@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1v6z1ondxlTpCY8FIknCp5stUKC3_Ea2k
 """
 
-!pip install -m venv venv
+
 
 #nstall libraries
 !pip install streamlit
