@@ -1,0 +1,4 @@
+Streamlit
+!pip install streamlit
+pandas
+!pip install pandas as pd 
