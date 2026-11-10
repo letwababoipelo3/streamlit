@@ -13,7 +13,7 @@ Original file is located at
 
 
 
-"""## Section A-E"""
+
 
 #a3
 import streamlit as st
@@ -26,9 +26,8 @@ st.title("CSV Data Explorer")
 #e1
 uploaded_file = st.file_uploader("Upload CSV", type=["csv"])
 
-"""##Setion F indent G,H, I, J, K,N
 
-"""
+
 
 # F-2
 if uploaded_file is not None:
